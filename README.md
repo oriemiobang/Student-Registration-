@@ -11,4 +11,4 @@ Welcome to the Haramaya University Student Registration System! This Java applic
 
 # Follow On-Screen Instructions:
 #Enter your full name, ID, department, year, and semester.
-#Choose options to collect a registration slip or exit.
+ #Choose options to collect a registration slip or exit.
